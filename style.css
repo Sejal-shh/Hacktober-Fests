@@ -5,12 +5,12 @@
 /* You can change the background here. 🎨 */
 #team {
     /* Change this tag color to your choice */
-    background: white !important;
+    background: blue !important;
 }
 
 .btn-primary:hover,
 .btn-primary:focus {
-    background-color: #108d6f;
+    background-color: #1c9dba;
     border-color: #108d6f;
     box-shadow: none;
     outline: none;
